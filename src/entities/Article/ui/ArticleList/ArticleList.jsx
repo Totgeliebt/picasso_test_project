@@ -24,7 +24,7 @@ export const ArticleList = () => {
     <>
       <h1>Список статей</h1>
       <Virtuoso
-        style={{ height: 850}}
+        style={{ height: 800}}
         data={posts}
         endReached={fetchMore}
         overscan={200}
