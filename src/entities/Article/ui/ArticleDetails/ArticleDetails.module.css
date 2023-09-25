@@ -1,0 +1,19 @@
+.pageWrapper {
+  padding: 30px;
+}
+
+.header {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+.title {
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+.text {
+  text-align: center;
+  font-size: 30px;
+}
